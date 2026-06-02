@@ -1,0 +1,1016 @@
+{
+  "name": "CloudTV Playlist",
+  "groups": [
+    {
+      "group_title": "📦| VTV",
+      "channels": [
+        {
+          "name": "VTV1",
+          "logo": "https://i.ibb.co/ySDjzg0/VTV1-cc.webp",
+          "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "VTV2",
+          "logo": "https://i.ibb.co/G0PXW8r/VTV2-cc.webp",
+          "url": "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "VTV3",
+          "logo": "https://i.ibb.co/VNHdbry/VTV3-cc.png",
+          "url": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "VTV4",
+          "logo": "https://i.ibb.co/VCBW4W8/VTV4-cc.webp",
+          "url": "https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "VTV5",
+          "logo": "https://i.ibb.co/Hnyb8Cr/VTV5-cc.webp",
+          "url": "https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "VTV7",
+          "logo": "https://i.ibb.co/Z89vrHX/VTV7-cc.webp",
+          "url": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "VTV8",
+          "logo": "https://i.ibb.co/RyBxx0F/VTV8-cc.webp",
+          "url": "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "VTV9",
+          "logo": "https://i.ibb.co/HVRdGVT/VTV9-cc.webp",
+          "url": "https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "VTV10",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/VTV10_logo_2026.png",
+          "url": "https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "VTV5 Tây Nam Bộ",
+          "logo": "https://i.ibb.co/Qrt7Qmp/ccvtv5-TNB.webp",
+          "url": "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "VTV5 Tây Nguyên",
+          "logo": "https://i.ibb.co/Fxzdz7v/ccvtv5TN.webp",
+          "url": "https://liveh12byt.vtvprime.vn/hls/VTV5_TN/03.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "Việt Nam Today",
+          "logo": "https://i.ibb.co/zTMvHrSm/Vietnam-Today.jpg",
+          "url": "https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        }
+      ]
+    },
+    {
+      "group_title": "💚| VTVcab ON",
+      "channels": [
+        {
+          "name": "Vie Giải trí HD",
+          "logo": "https://i.ibb.co/JF1bm7n/VTVCAB1.png",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=180",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "ON Phim Việt",
+          "logo": "https://i.ibb.co/SKvqCJR/VTVCAB2.png",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=175",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "ON Movies",
+          "logo": "https://i.ibb.co/pLPBMJ0/tb-cab4.webp",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=181",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "E Channel",
+          "logo": "https://i.ibb.co/QQxMjjG/VTVCAB5.png",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=182",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "ON O2TV",
+          "logo": "https://i.ibb.co/8DCZ0sz/tb-vcab7.webp",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=136",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "ON BiBi",
+          "logo": "https://i.ibb.co/tpqn2z4/tb-vcab8.webp",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=178",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "Info TV",
+          "logo": "https://i.ibb.co/Kbjn4zW/VTVCAB9.png",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=189",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "ON Cine",
+          "logo": "https://i.ibb.co/hdx4wzX/VTVCAB10.png",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=176",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "Style TV",
+          "logo": "https://i.ibb.co/r7pJj3r/VTVCAB12.png",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=184",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "ON Music",
+          "logo": "https://i.ibb.co/tKQC0TS/tb-vcab15.webp",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=185",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "Yeah1TV",
+          "logo": "https://i.ibb.co/zVQ2Qgf/VTVCAB17.png",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=186",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "Vie Dramas",
+          "logo": "https://i.ibb.co/SxBTCSq/VTVCAB19.png",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=177",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "VFamily",
+          "logo": "https://i.ibb.co/fG465Qr/VTVCAB20.png",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=187",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "ON Kids",
+          "logo": "https://i.ibb.co/KjG1mBZ/tb-vcab21.webp",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=179",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "ON Life",
+          "logo": "https://i.ibb.co/jz4HVtt/tb-vcab22.webp",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=188",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "ON Sports HD",
+          "logo": "https://i.ibb.co/f2X0sm5/cab3.png",
+          "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-3-on-sports/KenhCoBan.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "ON Sports+",
+          "logo": "https://i.ibb.co/pj4qYdP/tb-cab6.webp",
+          "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-6-on-sports/KenhCoBan.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "ON Football HD",
+          "logo": "https://i.ibb.co/nkytmVd/cab16.png",
+          "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-16-hd/KenhCoBan.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "ON Sports News",
+          "logo": "https://i.ibb.co/2WR02NN/ONSports-News.png",
+          "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-18-on-sports-news/KenhCoBan.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "ON Golf",
+          "logo": "https://i.ibb.co/d767x9L/ONGolf.png",
+          "url": "https://sgclient.duckdns.org/source/tv360.m3u8?id=169",
+          "headers": { "User-Agent": "CloudTV" }
+        }
+      ]
+    },
+    {
+      "group_title": "💚| SCTV",
+      "channels": [
+        {
+          "name": "SCTV1 HD",
+          "logo": "https://i.ibb.co/DYVGW60/sctv1-hd-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv1",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV2 HD",
+          "logo": "https://i.ibb.co/cctcsNH/sctv2-hd-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv2",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV3 HD",
+          "logo": "https://i.ibb.co/bW9fKGv/sctv3-hd-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv3",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV4 HD",
+          "logo": "https://i.ibb.co/2N5hVDx/sctv4-hd-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv4",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV5 HD",
+          "logo": "https://i.ibb.co/8DMRX6x/SCTV5.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv5",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV6 HD",
+          "logo": "https://i.ibb.co/DDf1zhNX/SCTV6-logo-2011.webp",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv6",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV7 HD",
+          "logo": "https://i.ibb.co/X8fCcpx/sctv7-hd-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv7",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV8 HD",
+          "logo": "https://i.ibb.co/0tVLK8b/sctv8-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV9 HD",
+          "logo": "https://i.ibb.co/VLJrprr/sctv9-hd-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv9",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV10 HD",
+          "logo": "https://i.ibb.co/LhqTgJ6N/SCTV10-logo-2011.webp",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv10",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV11 HD",
+          "logo": "https://i.ibb.co/Jy3cThG/sctv11-hd-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv11",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV12 HD",
+          "logo": "https://i.ibb.co/nDbnG8h/sctv12-hd-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv12",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV13 HD",
+          "logo": "https://i.ibb.co/YXt8w8v/sctv13-hd-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv13",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV14 HD",
+          "logo": "https://i.ibb.co/n8YQ0hB/sctv14-hd-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv14",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV16 HD",
+          "logo": "https://i.ibb.co/CMr9xN0/sctv16-hd-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv16",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV18 HD",
+          "logo": "https://i.ibb.co/72PK5Nr/sctv18-hd-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv18",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV19 HD",
+          "logo": "https://i.ibb.co/gMJ1GRG/sctv19-hd-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv19",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV20 HD",
+          "logo": "https://i.ibb.co/f9swgvg/sctv20-hd-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv20",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV21 HD",
+          "logo": "https://i.ibb.co/njnhPPB/sctv21-hd-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv21",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV22 HD",
+          "logo": "https://i.ibb.co/FVFwKRc/sctv22-hd-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctv22",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV HD Phim Tổng Hợp",
+          "logo": "https://i.ibb.co/G561126/SCTVTH-BEARTV.png",
+          "url": "https://hoiquan.dpdns.org/VTVGo/?sctvpth",
+          "headers": { "User-Agent": "CloudTV" }
+        }
+      ]
+    },
+    {
+      "group_title": "🔴 SCTV SV2",
+      "channels": [
+        {
+          "name": "SCTV1",
+          "logo": "https://i.ibb.co/KqXMPzc/ccsctv1.webp",
+          "url": "https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV2",
+          "logo": "https://i.ibb.co/92YZY2r/ccsctv2.webp",
+          "url": "https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV3",
+          "logo": "https://i.ibb.co/CnmttZQ/ccsctv3.webp",
+          "url": "https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV4",
+          "logo": "https://i.ibb.co/j4VVdqw/ccsctv4.webp",
+          "url": "https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV6",
+          "logo": "https://i.ibb.co/3NRzyxG/ccsctv6.webp",
+          "url": "https://liveh34.vtvprime.vn/hls/SCTV6/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV6 HD (Backup)",
+          "logo": "https://i.ibb.co/DDf1zhNX/SCTV6-logo-2011.webp",
+          "url": "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "SCTV7",
+          "logo": "https://i.ibb.co/k9Jzkbw/ccsctv7.webp",
+          "url": "https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV8",
+          "logo": "https://i.ibb.co/r7dgp4P/ccsctv8.webp",
+          "url": "https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV10",
+          "logo": "https://i.ibb.co/4sN9Rnm/ccsctv10.webp",
+          "url": "https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV11",
+          "logo": "https://i.ibb.co/Y34fcYr/ccsctv11.webp",
+          "url": "https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV12",
+          "logo": "https://i.ibb.co/R7pf1yP/ccsctv12.webp",
+          "url": "https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV13",
+          "logo": "https://i.ibb.co/cY8cvmn/ccsctv13.webp",
+          "url": "https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV14",
+          "logo": "https://i.ibb.co/SBh0RGm/ccsctv14.webp",
+          "url": "https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV16",
+          "logo": "https://i.ibb.co/PDhcf74/ccsctv16.webp",
+          "url": "https://liveh34.vtvprime.vn/hls/SCTV16/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV18",
+          "logo": "https://i.ibb.co/3Ss3ng4/ccsctv18.webp",
+          "url": "https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV19",
+          "logo": "https://i.ibb.co/JKLDCDd/ccsctv19.webp",
+          "url": "https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV20",
+          "logo": "https://i.ibb.co/ZGjbN3r/ccsctv20.webp",
+          "url": "https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV21",
+          "logo": "https://i.ibb.co/k1gY4R8/ccsctv21.webp",
+          "url": "https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV22",
+          "logo": "https://i.ibb.co/HtK3MyT/ccsctv22.webp",
+          "url": "https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "SCTV PTH",
+          "logo": "https://i.ibb.co/wQdDQXn/ccsctvpth.webp",
+          "url": "https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8",
+          "headers": { "User-Agent": "ExoPlayerLib/CloudTV/" }
+        },
+        {
+          "name": "TVB VIỆT NAM",
+          "logo": "https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",
+          "url": "https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8"
+        }
+      ]
+    },
+    {
+      "group_title": "💛| HTV/HTVC",
+      "channels": [
+        {
+          "name": "HTV1 HD",
+          "logo": "https://i.ibb.co/TL3rgJd/htv1.webp",
+          "url": "https://vc.101vn.com/htv/htvcmb.php?id=2631"
+        },
+        {
+          "name": "HTV2",
+          "logo": "https://i.ibb.co/7rt7fRS/htv2.png",
+          "url": "https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8"
+        },
+        {
+          "name": "HTV3",
+          "logo": "https://i.ibb.co/vwSBL1x/htv3.png",
+          "url": "https://vc.101vn.com/htv/htvcmb.php?id=2535"
+        },
+        {
+          "name": "HTV Key",
+          "logo": "https://i.ibb.co/y4Y5SRF/htvkey.webp",
+          "url": "https://vc.101vn.com/htv/htvcmb.php?id=2528"
+        },
+        {
+          "name": "HTV7 HD",
+          "logo": "https://i.ibb.co/mh1GLfY/HTV7-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8"
+        },
+        {
+          "name": "HTV9 HD",
+          "logo": "https://i.ibb.co/4VNDzHh/HTV9-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8"
+        },
+        {
+          "name": "HTV Thể Thao",
+          "logo": "https://i.ibb.co/Y8mr4Hf/HTV-TT.png",
+          "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8"
+        },
+        {
+          "name": "HTVC Thuần Việt HD",
+          "logo": "https://i.ibb.co/y86D94g/thuanviet.webp",
+          "url": "https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "HTVC Gia đình HD",
+          "logo": "https://i.ibb.co/2Whh11Y/HTVC-GIADINH.png",
+          "url": "https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "HTVC Phụ nữ HD",
+          "logo": "https://i.ibb.co/TvZCS24/HTVC-PHUNU.png",
+          "url": "https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "HTVC Du lịch Cuộc sống HD",
+          "logo": "https://i.ibb.co/n0r0WJh/HTVC-DLCS.png",
+          "url": "https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8"
+        },
+        {
+          "name": "HTVC Ca nhạc HD",
+          "logo": "https://i.ibb.co/gwFXPvh/HTVC-CANHAC.png",
+          "url": "https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "HTVC Phim HD",
+          "logo": "https://i.ibb.co/6BcjWb8/HTVC-PHIM.png",
+          "url": "https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "HTVC Plus HD",
+          "logo": "https://i.ibb.co/DpMwrKD/HTVCoop.webp",
+          "url": "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8"
+        }
+      ]
+    },
+    {
+      "group_title": "🇻🇳| Địa phương",
+      "channels": [
+        {
+          "name": "ANTV HD",
+          "logo": "https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png",
+          "url": "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8"
+        },
+        {
+          "name": "QPVN HD",
+          "logo": "https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png",
+          "url": "https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8"
+        },
+        {
+          "name": "HiTV",
+          "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_640_360.png",
+          "url": ""
+        },
+        {
+          "name": "YouTV",
+          "logo": "https://xem.truyenhinh.click/Logo/31.YouTV/KenhCoBan",
+          "url": ""
+        },
+        {
+          "name": "THVL1 HD",
+          "logo": "https://i.ibb.co/2MVntS3/THVL1-HD-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "THVL2 HD",
+          "logo": "https://i.ibb.co/LJWVVRp/THVL2-HD-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "THVL3 HD",
+          "logo": "https://i.ibb.co/Y8XFm4Z/THVL3-HD-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "THVL4 HD",
+          "logo": "https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "THVL5 HD",
+          "logo": "https://i.ibb.co/B5RPzLYV/thvl5.png",
+          "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "HanoiTV1 FHD",
+          "logo": "https://i.ibb.co/Y8bq8Fp/HANOI1-TV-BEARTV.png",
+          "url": "https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "HanoiTV2 FHD",
+          "logo": "https://i.ibb.co/L5bfkfQ/HANOI2-TV-BEARTV.png",
+          "url": "https://liveh34.vtvprime.vn/hls/HANOI2TV/03.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "ATV | TH An Giang 1",
+          "logo": "https://i.ibb.co/Jz474K1/An-Giang-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "BRT HD | TH Bà Rịa Vũng Tàu",
+          "logo": "https://i.ibb.co/ZMVBv8X/BRT-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "BGTV HD | TH Bắc Giang",
+          "logo": "https://i.ibb.co/Czf1tJc/BACGIANG-BEARTV.png",
+          "url": "https://liveh34.vtvprime.vn/hls/BACGIANGTV/03.m3u8"
+        },
+        {
+          "name": "BTV HD | TH Bắc Ninh",
+          "logo": "https://i.ibb.co/pLwf7JF/BACNINH-BEARTV.png",
+          "url": "https://liveh34.vtvprime.vn/hls/BACGIANGTV/03.m3u8"
+        },
+        {
+          "name": "BTV1 HD | TH Bình Dương",
+          "logo": "https://i.ibb.co/VSJQW77/BTV1-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8"
+        },
+        {
+          "name": "BTV9 HD | TH Bình Dương",
+          "logo": "https://i.ibb.co/F08gVbK/BTV9-BEARTV.png",
+          "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
+        },
+        {
+          "name": "CTV HD | TH Cà Mau",
+          "logo": "https://i.ibb.co/Xs0nf0N/125.png",
+          "url": "https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "THTPCT 1 HD | TH Cần Thơ",
+          "logo": "https://i.ibb.co/0XXxcNv/CANTHO-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "CRTV HD | TH Cao Bằng",
+          "logo": "https://i.ibb.co/H7YrC5h/caobang-BEARTV.png",
+          "url": "https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "DaNangTV1 HD",
+          "logo": "https://i.ibb.co/TRhDWXc/128.png",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=49"
+        },
+        {
+          "name": "DaNangTV2 HD",
+          "logo": "https://i.ibb.co/TRhDWXc/128.png",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=80"
+        },
+        {
+          "name": "DRT HD | TH Đắk Lắk",
+          "logo": "https://i.ibb.co/NmVVpFC/daklak-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "ĐTV HD | TH Điện Biên",
+          "logo": "https://i.ibb.co/QX9wxQj/dienbientv-BEARTV.png",
+          "url": "https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "ĐNRTV1 HD | TH Đồng Nai 1",
+          "logo": "https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8"
+        },
+        {
+          "name": "ĐNRTV2 HD | TH Đồng Nai 2",
+          "logo": "https://i.ibb.co/6B0LCKJ/dongnai2-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8"
+        },
+        {
+          "name": "THĐT1 HD | TH Đồng Tháp",
+          "logo": "https://i.ibb.co/3N22Nd4/TH-T-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8"
+        },
+        {
+          "name": "THĐT2 | TH Đồng Tháp",
+          "logo": "https://i.ibb.co/Fm6ZT1J/thdt2-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8"
+        },
+        {
+          "name": "THGL HD | TH Gia Lai",
+          "logo": "https://i.ibb.co/n0XJG3Q/GIALAI-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "HTTV HD | TH Hà Tĩnh",
+          "logo": "https://i.ibb.co/B6qZLG6/HATINH-BEARTV.png",
+          "url": "https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "THP HD | TH Hải Phòng",
+          "logo": "https://i.ibb.co/xJ0y2Vw/HAIPHONG-BEARTV.png",
+          "url": "https://liveh12.vtvprime.vn/hls/HAIPHONG/03.m3u8"
+        },
+        {
+          "name": "HY HD | TH Hưng Yên",
+          "logo": "https://i.ibb.co/wWQtTwr/HUNGYEN-BEARTV.png",
+          "url": "https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8"
+        },
+        {
+          "name": "KTV HD | TH Khánh Hòa",
+          "logo": "https://i.ibb.co/hWG82NP/KHANHHOA-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "LTV HD | TH Lai Châu",
+          "logo": "https://i.ibb.co/h9WZ4mk/laichautv-BEARTV.png",
+          "url": "https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "LTV HD | TH Lâm Đồng 1",
+          "logo": "https://i.ibb.co/YcBXy9Y/LAMDONG-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "NTV | TH Nam Định",
+          "logo": "https://i.ibb.co/0ycH3mR/Nam-Dinh-BEARTV.png",
+          "url": "https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8"
+        },
+        {
+          "name": "NTV HD | TH Nghệ An",
+          "logo": "https://i.ibb.co/fxwPrpH/NGHEAN-BEARTV.png",
+          "url": "https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "NTV HD | TH Ninh Bình",
+          "logo": "https://i.ibb.co/6WW75Cz/NINHBINH-BEARTV.png",
+          "url": "https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "PTV HD | TH Phú Thọ",
+          "logo": "https://i.ibb.co/7SSr7KH/Phu-Tho-BEARTV.png",
+          "url": "https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "QNgTV1 - TH Quảng Ngãi",
+          "logo": "https://i.ibb.co/605WQ10L/QNg-TV1.webp",
+          "url": "https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8"
+        },
+        {
+          "name": "QTV1 HD | TH Quảng Ninh",
+          "logo": "https://i.ibb.co/5hkJWkY/Quang-Ninh1-BEARTV.webp",
+          "url": "https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "QTV3 HD | TH Quảng Ninh",
+          "logo": "https://i.ibb.co/c3v2x4X/Quang-Ninh3-BEARTV.webp",
+          "url": "https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "QRTV HD | TH Quảng Trị",
+          "logo": "https://i.ibb.co/JnH32XZ/Quang-Tri-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8"
+        },
+        {
+          "name": "STV HD | TH Sơn La",
+          "logo": "https://i.ibb.co/z5Q0bkz/sonlatv-BEARTV.png",
+          "url": "https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "TTV11 HD | TH Tây Ninh",
+          "logo": "https://i.ibb.co/QbtMB5F/TAYNINH11-BEARTV.png",
+          "url": "https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist.m3u8"
+        },
+        {
+          "name": "TN1 HD | TH Thái Nguyên",
+          "logo": "https://i.ibb.co/2PgPvnB/thainguyen1-BEARTV.png",
+          "url": "https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8"
+        },
+        {
+          "name": "TTV HD | TH Thanh Hóa",
+          "logo": "https://i.ibb.co/pr7CGhb/THANHHOA-BEARTV.png",
+          "url": "https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8"
+        },
+        {
+          "name": "TRT | TH Thừa Thiên Huế",
+          "logo": "https://i.ibb.co/5X0YF3c/Hue-TV-BEARTV.png",
+          "url": "https://liveh12.vtvprime.vn/hls/HUE/03.m3u8"
+        },
+        {
+          "name": "TTV HD | TH Tuyên Quang",
+          "logo": "https://i.ibb.co/Hp6pHKp/TUYENQUANG-BEARTV.png",
+          "url": "https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8"
+        }
+      ]
+    },
+    {
+      "group_title": "🇧🌎🇽",
+      "channels": [
+        {
+          "name": "Box Movie 1",
+          "logo": "https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png",
+          "url": "https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd",
+          "headers": { "User-Agent": "CloudTV" },
+          "params": {
+            "manifest_type": "mpd",
+            "license_type": "clearkey",
+            "license_key": "a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b"
+          }
+        },
+        {
+          "name": "Hollywood Classics",
+          "logo": "https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",
+          "url": "https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd",
+          "headers": { "User-Agent": "CloudTV" },
+          "params": {
+            "manifest_type": "mpd",
+            "license_type": "clearkey",
+            "license_key": "a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b"
+          }
+        },
+        {
+          "name": "Box Hits",
+          "logo": "https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png",
+          "url": "https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd",
+          "headers": { "User-Agent": "CloudTV" },
+          "params": {
+            "manifest_type": "mpd",
+            "license_type": "clearkey",
+            "license_key": "a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b"
+          }
+        },
+        {
+          "name": "Music Box",
+          "logo": "https://i.ibb.co/Z17szpD/Box-Music-cc.webp",
+          "url": "https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd",
+          "headers": { "User-Agent": "CloudTV" },
+          "params": {
+            "manifest_type": "mpd",
+            "license_type": "clearkey",
+            "license_key": "2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae"
+          }
+        },
+        {
+          "name": "Woman",
+          "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png",
+          "url": "https://livevlisctcdnw.seenow.vn/mean/WO/manifest.mpd",
+          "headers": { "User-Agent": "CloudTV" },
+          "params": {
+            "manifest_type": "mpd",
+            "license_type": "clearkey",
+            "license_key": "2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae"
+          }
+        },
+        {
+          "name": "HBO (Asia)",
+          "logo": "https://i.ibb.co/FDRHKwf/hboasia.png",
+          "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd",
+          "headers": { "User-Agent": "CloudTV" },
+          "params": {
+            "manifest_type": "mpd",
+            "license_type": "clearkey",
+            "license_key": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"PeDzjc8BSCff1b7Dh0PGog\",\"kid\":\"Cd3+PWOGPK+ut50FRrCYqw\"}],\"type\":\"temporary\"}"
+          }
+        },
+        {
+          "name": "Cinemax HD",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
+          "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd",
+          "headers": { "User-Agent": "Dalvik/2.1.0" },
+          "params": {
+            "manifest_type": "mpd",
+            "license_type": "clearkey",
+            "license_key": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"6YaPX0c9D9hpnt5I1THCsA\",\"kid\":\"rLTCNHEGMyetxzLig8CEfw\"}],\"type\":\"temporary\"}"
+          }
+        },
+        {
+          "name": "Cinema World",
+          "logo": "https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",
+          "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd",
+          "headers": { "User-Agent": "Dalvik/2.1.0" },
+          "params": {
+            "manifest_type": "mpd",
+            "license_type": "clearkey",
+            "license_key": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"s14Sp1pCpvkYRyOpD/QtnA\",\"kid\":\"7nkVVk10OdCb01Vv/MyHpA\"}],\"type\":\"temporary\"}"
+          }
+        }
+      ]
+    },
+    {
+      "group_title": "🌈| KIDS",
+      "channels": [
+        {
+          "name": "Cartoonito",
+          "logo": "https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg",
+          "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd",
+          "params": {
+            "manifest_type": "mpd",
+            "license_type": "clearkey",
+            "license_key": "b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512"
+          }
+        },
+        {
+          "name": "Dreamworks",
+          "logo": "https://i.ibb.co/THfL7QS/Dream-Works-cc.png",
+          "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd",
+          "params": {
+            "manifest_type": "mpd",
+            "license_type": "clearkey",
+            "license_key": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"WTKPYh1WdnvF/5QEqJQGgw\",\"kid\":\"Z9riBSfGPa2qrmCaqRV3yw\"}],\"type\":\"temporary\"}"
+          }
+        },
+        {
+          "name": "Cartoon Network HD",
+          "logo": "https://mytv.com.vn/upload/channel/179.png",
+          "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd",
+          "params": {
+            "manifest_type": "mpd",
+            "license_type": "clearkey",
+            "license_key": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"PMGt1Drszj/jHJxqKluMIQ\",\"kid\":\"PCAWZmCpOnWsd9uBVnOJ9w\"}],\"type\":\"temporary\"}"
+          }
+        },
+        {
+          "name": "BBC CBEEBIES",
+          "logo": "https://i.imgur.com/ePT0YZ4.png",
+          "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd",
+          "params": {
+            "manifest_type": "mpd",
+            "license_type": "clearkey",
+            "license_key": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"uDPR9AwmHveIlvl+BvgM3A\",\"kid\":\"zKc6AGtLOaWVIHzrXtnKCg\"}],\"type\":\"temporary\"}"
+          }
+        },
+        {
+          "name": "DAVINCI LEARNING",
+          "logo": "https://i.ibb.co/7RwmDbp/Da-vinci-learning-21.png",
+          "url": "https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8"
+        },
+        {
+          "name": "PBS Kids",
+          "logo": "https://i.imgur.com/FblenhB.png",
+          "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8"
+        },
+        {
+          "name": "EBS Kids",
+          "logo": "https://i.ibb.co/Tk66hWb/ebskids.png",
+          "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8"
+        }
+      ]
+    },
+    {
+      "group_title": "🏆| Thể Thao",
+      "channels": [
+        {
+          "name": "CCTV-5 高清",
+          "logo": "https://live.fanmingming.com/tv/CCTV5.png",
+          "url": "https://live.fanmingming.com/tv/CCTV5.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        }
+      ]
+    },
+    {
+      "group_title": "🌏| Quốc tế",
+      "channels": [
+        {
+          "name": "History sv2",
+          "logo": "https://i.imgur.com/ZL62USj.png",
+          "url": "https://liveh34.vtvprime.vn/hls/HISTORY/02.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "Da Vinci HD",
+          "logo": "https://i.ibb.co/BVdwFmN/Da-Vinci-cc.png",
+          "url": "https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "KBS World",
+          "logo": "https://i.ibb.co/8XwH2hS/KBS-World-BEARTV.png",
+          "url": "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "Asian Food Network",
+          "logo": "https://i.ibb.co/yqWvBRY/afn.png",
+          "url": "https://liveh12.vtvprime.vn/hls/AFC/03.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "CNBC",
+          "logo": "https://i.ibb.co/ChmR52g/CNBC-BEARTV.png",
+          "url": "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "HGTV",
+          "logo": "https://i.ibb.co/3dTPBnd/cchgtv.png",
+          "url": "https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8",
+          "headers": { "User-Agent": "CloudTV" }
+        },
+        {
+          "name": "Discovery",
+          "logo": "https://s72140.cdn.mytvnet.vn/vimages/c7/7f/fc/c6/69/9b/c7fc6-pdiscoveryhd-channel-unkn.png",
+          "url": "https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd",
+          "headers": { "User-Agent": "Dalvik/2.1.0" },
+          "params": {
+            "manifest_type": "mpd",
+            "license_type": "clearkey",
+            "license_key": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"vqWgcVfgxNF7Eas5lRf5Ug\",\"kid\":\"60Fg6lU6Mh2JlVPk55b+wg\"}],\"type\":\"temporary\"}"
+          }
+        }
+      ]
+    }
+  ]
+}
